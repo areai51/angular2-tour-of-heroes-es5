@@ -6,4 +6,4 @@ Simply extract the files and run index.html from within a web server and it shou
 No Node no TypeScript.
 
 *The purpose of this ES5 version is only to help you understand Angular2 without being overwhelmened with the new syntaxes of TypeScript. 
-But once you get comfortable you should immediately switch to TypeScript for all the awesomeness it brings to the table!! *
+But once you get comfortable you should immediately switch to TypeScript for all the awesomeness it brings to the table!!*
