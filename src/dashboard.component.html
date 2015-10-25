@@ -1,0 +1,11 @@
+<link rel="stylesheet" type="text/css" href="dashboard.component.css">
+
+<h3>Top Heroes</h3>
+<div class="grid grid-pad">
+<!-- Slice 0:4 is to show 4 items from the entire list of heroes -->
+	<div *ng-for="#hero of heroes | slice:0:4" class="col-1-4" >
+		<div class="module hero">
+			<h4>{{hero.name}}</h4>
+		</div>
+	</div>
+</div>
